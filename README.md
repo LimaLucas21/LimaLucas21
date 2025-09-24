@@ -45,7 +45,10 @@ Apaixonado por tecnologia e sempre buscando evoluir no desenvolvimento de aplica
 ## 📊 GitHub Highlights
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LimaLucas21&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=LimaLucas21&theme=tokyonight&hide_border=true)
+![Repos](https://img.shields.io/badge/Repositórios-10-blue?style=for-the-badge)
+![Stars](https://img.shields.io/badge/Stars-25-yellow?style=for-the-badge)
+[![trophy](https://github-profile-trophy.vercel.app/?username=LimaLucas21&theme=onedark&title=Commit,Repo,Stars)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 ---
