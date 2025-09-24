@@ -42,9 +42,11 @@ Apaixonado por tecnologia e sempre buscando evoluir no desenvolvimento de aplica
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Highlights
 
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=LimaLucas21&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LimaLucas21&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=LimaLucas21&theme=tokyonight&hide_border=true)
+
 
 ---
 
