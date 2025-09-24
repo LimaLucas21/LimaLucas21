@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Lucas Lima  
 
 💻 **Desenvolvedor C# | .NET | Windows Forms**  
-Apaixonado por tecnologia e sempre buscando evoluir no desenvolvimento de aplicações desktop e web.  
+Apaixonado por tecnologia e sempre buscando evoluir no desenvolvimento de aplicações desktop, web e automações.  
 
 ---
 
@@ -11,6 +11,7 @@ Apaixonado por tecnologia e sempre buscando evoluir no desenvolvimento de aplica
 <div style="display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 15px;">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 </div>
 
 ### 🔹 Desktop
@@ -32,6 +33,13 @@ Apaixonado por tecnologia e sempre buscando evoluir no desenvolvimento de aplica
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
 </div>
 
+### 🔹 Automação
+<div style="display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 15px;">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">
+  <img src="https://img.shields.io/badge/AutoIt-1C3552?style=for-the-badge&logo=autoit&logoColor=white" alt="AutoIt">
+</div>
+
 ---
 
 ## 📊 GitHub Stats  
@@ -42,9 +50,10 @@ Apaixonado por tecnologia e sempre buscando evoluir no desenvolvimento de aplica
 
 ## 📫 Contato  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/update/urn:li:share:7043391532220985344/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lima_lucas.21/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/update/urn:li:share:7043391532220985344/)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lima_lucas.21/)  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5585989055503)
 
 ---
+
 ⭐ Se gostou do meu perfil, não esqueça de deixar uma estrela nos meus repositórios!  
